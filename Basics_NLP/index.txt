@@ -1,0 +1,7 @@
+Basics of NLP includes 
+1) Spacy 
+2) Tokenization
+3) Lemmatization
+4) Stemming
+5) Stop Words 
+6) Phrase Matching and Vocabulary 
